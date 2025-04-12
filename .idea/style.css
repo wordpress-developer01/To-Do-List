@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.app {
+    margin-left: 42%;
+    margin-top: 16%;
+}
+
+.task {
+    width: 250px;
+    height: 25px;
+}
+
+button {
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: yellow;
+    color: black;
+}
